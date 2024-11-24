@@ -20,4 +20,3 @@
 docs/* text
 
 # détecter le langage SQL
-*.sql linguist-detectable=true
